@@ -15,3 +15,6 @@ bikeshare.py
 ### Credits
 https://pandas.pydata.org/docs/reference/series.html  
 https://pandas.pydata.org/docs/reference/frame.html
+
+### Author
+Duong Hong Hung
