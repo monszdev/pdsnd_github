@@ -7,7 +7,7 @@ Created at 15 Aug, 2024
 Introduction to Version Control with US Bikeshare Data
 
 ### Description
-Python implementation of analytic for US Bikeshare Data
+Be familiar with Git using Bikeshare implementation
 
 ### Files used
 bikeshare.py
