@@ -7,7 +7,7 @@ Modify at 15 Aug, 2024
 Introduction to Version Control
 
 ### Description
-Describe what your project is about and what it does
+Be familiar with Git using Bikeshare implementation
 
 ### Files used
 Include the files used
